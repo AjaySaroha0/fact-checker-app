@@ -1,0 +1,6 @@
+streamlit==1.45.1
+groq==0.31.1
+tavily-python==0.5.4
+python-dotenv==1.0.1
+requests==2.32.3
+beautifulsoup4==4.13.4
